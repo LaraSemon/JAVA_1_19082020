@@ -1,8 +1,6 @@
 package ru.geekbrains.lesson_1.homework1;
 
-import sun.awt.geom.AreaOp;
-
-public class FirstApp {
+public class Homework {
 
     public static void main(String[] args) {
         byte a;
@@ -23,8 +21,30 @@ public class FirstApp {
         }
     }
 
-//    public static int calculate (int k, int l, int m, int n) {
-//        k = l = m = n = 6;
-//        return (k * (l + (m / n)));
+//
+//    public static double someThink (double j, double f, double n, double i) {
+//
+////    public static double main (String[] args) {
+////        double j, f, n, i;
+//
+//
+//        j = 5.8;
+//        f = 4.8;
+//        n = 3.2;
+//        i = 5.2;
+//        return j * (f + (n / i));
+//
 //    }
+//}
+
+
+
+    public static boolean inInterval(int p, int r) {
+        int p = 13;
+        int r = 5;
+        return  (p + r) >= 10 && (p + r) <= 20 {
+
+        }
+    }
 }
+
