@@ -42,9 +42,7 @@ public class Homework {
     public static boolean inInterval(int p, int r) {
         int p = 13;
         int r = 5;
-        return  (p + r) >= 10 && (p + r) <= 20 {
-
-        }
+        return (p + r) >= 10 && (p + r) <= 20;
     }
 }
 
